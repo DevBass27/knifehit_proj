@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3337b1e62dfcd7468e8c599ffd183c8, type: 3}
+  m_Name: Skin 3
+  m_EditorClassIdentifier: 
+  Name: Hunter
+  Skin: {fileID: -352728797730923312, guid: 983f9834a2eb9d44bb57b9e268d830b8, type: 3}
+  price: 750
